@@ -1,5 +1,5 @@
 ---
-description: Luffy Finance
+description: Join us in the fight against the marines! Rally together my Nakamas!
 ---
 
 # Luffy Finance
