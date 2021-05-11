@@ -14,3 +14,7 @@
 * [How is the price sustained?](faq/why-is-this-launching-as-a-generic-yield-farm.md)
 * [Any special events](faq/any-special-events.md)
 
+---
+
+* [Who are the Straw Hat pirates](who-are-the-straw-hat-pirates.md)
+
