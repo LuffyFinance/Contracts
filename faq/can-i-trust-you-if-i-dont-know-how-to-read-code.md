@@ -1,12 +1,22 @@
-# Can I trust you if I don't know how to read code?
+---
+description: >-
+  Here is a guide for non-technical farmers that would like to verify the safety
+  of the project on their own (Which we do recommend)
+---
+
+# How to verify legitamacy if I don't know code
 
 
 
-We were in your shoes once, and totally understand the confusion if you do not know how to read code. How are you guys supposed to know if what we say is true? Don't worry, we got you guys covered.
+We understand that uncertainty and fear affects non-technical farmers the most. Don't worry, the strawhat pirates are there for you.
 
-First, go to the 'Contracts' section and view the contracts on [https://bscscan.com/](https://bscscan.com/)
+99% of malicious activities happens in the smart contracts, so here is a very intuitive way of verifying the legitmacy of the project yourself.
 
-Next, go to a reputable source \(we forked from Goose Finance\), and access their contracts as well.
+The idea is simple, take the smart contract from a reputable source like Goose Finance, and compare the smart contract with ours.
+
+
+
+**Heres how you can do it**
 
 1. Go to the 'Contracts' section and view the contracts on [https://bscscan.com/](https://bscscan.com/)
 2. Go to a reputable source \(we forked from Goose Finance\), and access their contracts as well

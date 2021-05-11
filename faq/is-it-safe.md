@@ -1,15 +1,15 @@
-# Is it safe
+# Is the project safe ?
 
-Recently, there has been a lot of rug pulls in yield farms, and honestly, as a team that has played in yield farms before, we understand the anxiety and uncertainty that is faced by farmers that decide to put their money in a new yield farm. 
+Being crypto investors ourselves, we understand the fear and uncertainty that people face when participating in yield farms. The problem is with unethical developers that profit off the losses of their community.
 
-That is why as a team, we decided to create a safe environment to farm, and it's not just empty words. 
+As such, we decided to create our own crypto platform that will act as a safe space for farmers to grow together. And we don't say this just for fun.
 
-Here is a list of safety measurements we have taken in order to ensure that there is no way that we can rug or drain.
+We prioratize honesty and transparency, here is a list of safety nets we have taken in order to ensure that there is no way that we can rug or drain the community. 
 
 * [ ] Migrator Code Removed
 * [ ] No Additional Proxy Contracts
 * [ ] Timelock Contract \(will be activated after fair launch\)
 * [ ] Initial Liquidity Burned \(will be done right after fair launch\)
 
-For farmers that do not know how to read code, and do not want to take our word for it but would want to verify for yourselves, do head over to the next section to read up more.
+For non-technical users, it is wise to not take our word for it and verify the safety of the project yourself. 
 
