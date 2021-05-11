@@ -6,9 +6,9 @@ description: Join us in the fight against the marines! Rally together my Nakamas
 
 Luffy Finance is a yield farm on Binance Smart Chain. 
 
-We aim to be a safe place for farmers to stake their tokens and earn rewards in our native token, LUF. 
+We value integrity and transparency and will strive to be a safe place for farmers to stake their tokens and earn rewards in our native token, LUF. 
 
-Yield farms are usually short-lived, but we aim to introduce more features to try to make the tokens as deflationary as possible, or at least as minimally inflationary as possible, and you can check out our roadmap for upcoming features.
+Along side that, we will be rolling out a series of special events -- so stay tune to our social media channels to not miss out on the exciting prizes! 
 
 ![](.gitbook/assets/459c4ec763ed2ee0ceabde662536a738.png)
 

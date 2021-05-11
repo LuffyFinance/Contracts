@@ -4,13 +4,27 @@ description: Connect with us. Stay tuned to find out more!
 
 # Links
 
-Telegram: [https://t.me/titan\_defi](https://t.me/titan_defi)
+**Channels**
 
-Twitter: [https://twitter.com/finance\_titan](https://twitter.com/finance_titan)
+Telegram: [https://t.me/luffyFinance](https://t.me/luffyFinance)
 
-Github: [https://github.com/titandefi](https://github.com/titandefi)
+Twitter: [https://twitter.com/FinanceLuffy](https://twitter.com/FinanceLuffy)
 
-Website: [https://www.aotfinance.com/](https://www.aotfinance.com/)
+Github:  [https://github.com/LuffyFinance](https://github.com/LuffyFinance)
 
-Medium: [https://titandefi.medium.com/rise-of-the-titan-5057e7cc3a3d](https://titandefi.medium.com/rise-of-the-titan-5057e7cc3a3d)
+Website: [https://www.luffyfinance.com/](https://www.luffyfinance.com/)
+
+Medium: [https://luffyfinance.medium.com/fight-against-the-marines-8730ae058334](https://luffyfinance.medium.com/fight-against-the-marines-8730ae058334)
+
+**Countdown**
+
+Farm start countdown: [https://bscscan.com/block/countdown/7425888](https://bscscan.com/block/countdown/7425888)
+
+**Contracts**
+
+Token: ****[https://bscscan.com/address/0x1dD7645b0f38d289B4008C8DeDe87fcDc56F6708\#contracts](https://bscscan.com/address/0x1dD7645b0f38d289B4008C8DeDe87fcDc56F6708#contracts)
+
+masterChef: [https://bscscan.com/address/0x929e136975d357580E2D67B1F1a618a4F0d2c35D\#contracts](https://bscscan.com/address/0x929e136975d357580E2D67B1F1a618a4F0d2c35D#contracts)
+
+timeLock: [https://bscscan.com/address/0x6A1FbceFF0C98185BA5E289cD06717B099d990A9\#contracts](https://bscscan.com/address/0x6A1FbceFF0C98185BA5E289cD06717B099d990A9#contracts)
 
