@@ -4,7 +4,7 @@ Being crypto investors ourselves, we understand the fear and uncertainty that pe
 
 As such, we decided to create our own crypto platform that will act as a safe space for farmers to grow together. And we don't say this just for fun.
 
-We prioratize honesty and transparency, here is a list of safety nets we have taken in order to ensure that there is no way that we can rug or drain the community. 
+We prioritizehonesty and transparency, here is a list of safety nets we have taken in order to ensure that there is no way that we can rug or drain the community. 
 
 * [ ] No Migrator Code 
 * [ ] No Additional Proxy Contracts
