@@ -6,7 +6,7 @@ description: Connect with us. Stay tuned to find out more!
 
 **Channels**
 
-Telegram: [https://t.me/luffyFinance](https://t.me/luffyFinance)
+Telegram: [https://t.me/Luffy\_finance](https://t.me/Luffy_finance)
 
 Twitter: [https://twitter.com/FinanceLuffy](https://twitter.com/FinanceLuffy)
 
